@@ -10,7 +10,7 @@ function index() {
       <Card
         image={LedgerlyLogo}
         title="Ledgerly"
-        description="I developed responsive mobile/desktop application for my senior capstone project. I worked on it for 250 hours over the course of one semester, and used / learned a variety of technologies. I used React JS for the front end and Node JS for the back end. I wrote custom CSS for all the styling, and used a MySQL database for data persistence. For my hosting stack, I used an RDS instance on AWS for the database, and an AWS Elastic Beanstalk environment to host the back end. I hosted the front end on Google Firebase. This project is an accounting platform that enables users to intuitively manage financial records, accounting systems, and reporting through the lifecycle of their business.
+        description="I developed a responsive mobile/desktop application for my senior capstone project. I worked on it for 250 hours over the course of one semester, and used / learned a variety of technologies. I used React JS for the front end and Node JS for the back end. I wrote custom CSS for all the styling, and used a MySQL database for data persistence. For my hosting stack, I used an RDS instance on AWS for the database, and an AWS Elastic Beanstalk environment to host the back end. I hosted the front end on Google Firebase. This project is an accounting platform that enables users to intuitively manage financial records, accounting systems, and reporting through the lifecycle of their business.
 "
         buttonTitle="Read More"
         imageSide="left"
